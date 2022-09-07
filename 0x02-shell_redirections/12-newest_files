@@ -1,2 +1,2 @@
-#!/bim/bash
-ls -t | head
+#!/bin/bash
+ls -1t | head -10
